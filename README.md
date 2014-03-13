@@ -5,4 +5,6 @@ Cet ebook au format epub 2 se propose de présenter une rencontre entre l'UX Des
 
 Revenant sur des réflexions actuelles autour des transformations du livre et de la lecture, il explore les enjeux de la conception des ebooks, notamment au format epub, et tente de perçer à jour les techniques de l'"ebook designer".
 
+Lien direct alternatif de téléchargement : http://tibomahe.com/mahe_design-et-architecture-de-l-ebook.epub
+
 N'hésitez pas à me donner vos retours et vos avis : http://tibomahe.com
